@@ -23,8 +23,8 @@
 // #define EZTIME_MAX_DEBUGLEVEL_INFO
 
 // Cache mechanism, either EEPROM or NVS, not both. (See README)
-#define EZTIME_CACHE_EEPROM
-// #define EZTIME_CACHE_NVS
+//#define EZTIME_CACHE_EEPROM
+#define EZTIME_CACHE_NVS
 
 // Uncomment if you want to access ezTime functions only after "ezt."
 // (to avoid naming conflicts in bigger projects, e.g.) 
